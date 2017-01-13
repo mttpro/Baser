@@ -1,0 +1,16 @@
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\bin\Release\Baser.exe.config
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\bin\Release\Baser.exe
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\bin\Release\Baser.pdb
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\bin\Release\Baser.xml
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog1.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog2.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog3.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog4.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog5.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Dialog6.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Form1.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.Resources.resources
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\puzzlegame.vbproj.GenerateResource.Cache
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.exe
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.xml
+C:\Users\Matyi\Documents\Visual Studio 2010\Projects\puzzlegame\puzzlegame\obj\x86\Release\Baser.pdb
